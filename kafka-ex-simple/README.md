@@ -1,5 +1,7 @@
 # Started Kafka Simple Example
 
+![Alt text](ex.png?raw=true "Figura ? Topic detalhado")
+
 ### Installation and Setup
 
  Download the [Kafka 2.3.0](https://www.apache.org/dyn/closer.cgi?path=/kafka/2.3.0/kafka_2.12-2.3.0.tgz)
